@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marwan Bou Diab
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marwan Boudiab
 =======================================================================================================================================
 
 Software Engineer
@@ -7,7 +7,7 @@ Software Engineer
 Full Stack Engineer with experience in both functional and object-oriented programming (OOP). Passionate about building full-stack applications and skilled in developing cross-platform solutions.
 
 *   🌍  I'm based in Lebanon, currently in Poland
-*   🖥️  See my portfolio at [marwanboudiab](http://marwan-boudiab-portfolio.vercel.app)
+*   🖥️  See my portfolio at [marwan-boudiab-portfolio.vercel.app](http://marwan-boudiab-portfolio.vercel.app)
 *   ✉️  You can contact me at [marwan.boudiab@outlook.com](mailto:marwan.boudiab@outlook.com)
 *   🧠  I'm learning React Native
 
