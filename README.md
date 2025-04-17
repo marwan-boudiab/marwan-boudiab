@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marwan Bou Diab
+=======================================================================================================================================
 
-<!--
-**marwan-boudiab/marwan-boudiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+Full Stack Engineer with experience in both functional and object-oriented programming (OOP). Passionate about building full-stack applications and skilled in developing cross-platform solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Lebanon, currently in Poland
+*   🖥️  See my portfolio at [marwanboudiab](http://marwan-boudiab-portfolio.vercel.app)
+*   ✉️  You can contact me at [marwan.boudiab@outlook.com](mailto:marwan.boudiab@outlook.com)
+*   🧠  I'm learning React Native
+
+<h1 align="center">Languages-Frameworks-Tools</h1>
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,postgres,supabase,python,cs,html,css,threejs,git,postman,vscode,visualstudio,notion" />
+  </a>
+</p>
