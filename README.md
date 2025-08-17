@@ -9,7 +9,7 @@ Full Stack Engineer with experience in both functional and object-oriented progr
 *   🌍  I'm based in Lebanon, currently in Poland
 *   🖥️  See my portfolio at <a href="http://marwan-boudiab.com" target="_blank">marwan-boudiab.com</a>
 *   ✉️  You can contact me at [marwan.boudiab@outlook.com](mailto:marwan.boudiab@outlook.com)
-*   🧠  I'm learning React Native
+*   🧠  I'm learning AI & Machine Learning
 
 <h1 align="center">Languages-Frameworks-Tools</h1>
 
