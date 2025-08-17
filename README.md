@@ -15,6 +15,6 @@ Full Stack Engineer with experience in both functional and object-oriented progr
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,postgres,supabase,python,cs,html,css,threejs,git,vercel,vite,postman,vscode,visualstudio,notion" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,nodejs,express,tailwind,mongodb,postgres,supabase,python,cs,html,css,threejs,git,vercel,vite,postman,vscode,visualstudio,notion" />
   </a>
 </p>
